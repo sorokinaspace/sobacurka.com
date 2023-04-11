@@ -257,18 +257,20 @@ section.success {
     .portfolio-flex-grid .portfolio-flex-row {
       display: flex;
       flex-flow: row wrap;
-      align-items: stretch;
-      justify-content: space-between;
+      align-items: center;
+      justify-content: space-evenly;
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
-      flex: 1 0 49%;
-      max-width: 49%;
+      flex: 1 0 32%;
+      max-width: 32%;
+      aspect-ratio: 1 / 0 ;
     }
   }
   @media (min-width: 960px) {
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
-      flex: 1 0 32%;
-      max-width: 32%;
+      flex: 1 0 23.5%;
+      max-width: 23.5%;
+      aspect-ratio: 1 / 0 ;
     }
   }
   /* A large grid might need four columns on widescreen layouts */
