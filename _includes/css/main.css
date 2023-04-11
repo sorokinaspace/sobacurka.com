@@ -80,6 +80,10 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.img-modal {
+    max-width: 30%;
+}
+
 header {
     text-align: center;
     color: #fff;
