@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2023-04-10T17:47:50-07:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Книжкова полиця</title>
+  
+
+  
+    <subtitle>Домашня біблітека в Кремнієвій долині для усіх бажаючих</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Свідомість дзен, свідомість початківця</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Свідомість дзен, свідомість початківця" />
+      <published>2023-04-06T00:00:00-07:00</published>
+      <updated>2023-04-06T00:00:00-07:00</updated>
+      <id>http://localhost:4000/zen-mind-beginners-mind-shunryu-suzuki</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Cюнрю Судзукі (Шюнрю Судзукі)</name>
+        
+        
+      </author>
+
+      
+        <category term="Дзен-буддизм" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Збагнути Росію. Свідчення очевидців</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Збагнути Росію. Свідчення очевидців" />
+      <published>2023-04-06T00:00:00-07:00</published>
+      <updated>2023-04-06T00:00:00-07:00</updated>
+      <id>http://localhost:4000/zbagnuty-rosiyu-oleksandr-paliy</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Олександр Палій</name>
+        
+        
+      </author>
+
+      
+        <category term="Монографії" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">За лаштунками імперії</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="За лаштунками імперії" />
+      <published>2023-04-06T00:00:00-07:00</published>
+      <updated>2023-04-06T00:00:00-07:00</updated>
+      <id>http://localhost:4000/za-lashtunkamy-imperiyi-vira-ageyeva</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Віра Агеєва</name>
+        
+        
+      </author>
+
+      
+        <category term="Науково-популярне дослідження" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Тотальний опір. Інструкція з ведення малої війни для кожного. Частина 1</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Тотальний опір. Інструкція з ведення малої війни для кожного. Частина 1" />
+      <published>2023-04-06T00:00:00-07:00</published>
+      <updated>2023-04-06T00:00:00-07:00</updated>
+      <id>http://localhost:4000/totalnyi-opir-part-1-major-hans-fon-dah</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Майор Ганс фон Дах</name>
+        
+        
+      </author>
+
+      
+        <category term="Військова справа" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Тотальний опір. Інструкція з ведення малої війни для кожного. Частина 2</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Тотальний опір. Інструкція з ведення малої війни для кожного. Частина 2" />
+      <published>2023-04-06T00:00:00-07:00</published>
+      <updated>2023-04-06T00:00:00-07:00</updated>
+      <id>http://localhost:4000/totalnyi-opir-part-1-major-hans-fon-dah%20copy</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Майор Ганс фон Дах</name>
+        
+        
+      </author>
+
+      
+        <category term="Військова справа" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Український бестіарій</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Український бестіарій" />
+      <published>2023-04-06T00:00:00-07:00</published>
+      <updated>2023-04-06T00:00:00-07:00</updated>
+      <id>http://localhost:4000/totalnyi-opir-part-1-major-hans-fon-dah%20copy%202</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Спільнота mal'oviy (самвидав)</name>
+        
+        
+      </author>
+
+      
+        <category term="Артбук" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Тигролови</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Тигролови" />
+      <published>2023-04-06T00:00:00-07:00</published>
+      <updated>2023-04-06T00:00:00-07:00</updated>
+      <id>http://localhost:4000/tiger-trappers-ivan-bagriany</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Іван Багряний</name>
+        
+        
+      </author>
+
+      
+        <category term="Пригодницький роман" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Фотокнига The Beauty of Ukraine: Landscape Photography</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Фотокнига The Beauty of Ukraine: Landscape Photography" />
+      <published>2023-04-06T00:00:00-07:00</published>
+      <updated>2023-04-06T00:00:00-07:00</updated>
+      <id>http://localhost:4000/the-beauty-of-ukraine-yevhen-samuchenko</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Євген Самученко (фотограф), Люсія Бондар</name>
+        
+        
+      </author>
+
+      
+        <category term="Фотокнига" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Спротив речей</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Спротив речей" />
+      <published>2023-04-06T00:00:00-07:00</published>
+      <updated>2023-04-06T00:00:00-07:00</updated>
+      <id>http://localhost:4000/sprotyv-rechey-viktoriya-granetska</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Вікторя Гранецька</name>
+        
+        
+      </author>
+
+      
+        <category term="Поезія" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Що побтрібно знати українцям про економіку</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Що побтрібно знати українцям про економіку" />
+      <published>2023-04-06T00:00:00-07:00</published>
+      <updated>2023-04-06T00:00:00-07:00</updated>
+      <id>http://localhost:4000/shcho-potribno-znaty-ukraintsyam-pro-ekonomiku-dmytro-burakov</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Дмитро Бураков</name>
+        
+        
+      </author>
+
+      
+        <category term="Науково-популярне дослідження" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
