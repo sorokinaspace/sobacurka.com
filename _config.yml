@@ -1,8 +1,8 @@
 # Site settings
-title: Книжкова полиця
+title: Книжкова поличка "Собацюрка"
 email: ua.bookshelf.silicon.valley@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Домашня біблітека в Кремнієвій долині для усіх бажаючих"
+description: "Домашня бібліотека в Кремнієвій долині для усіх бажаючих"
 keywords: "бібліотека, книжки українською, українські книжки, книжки про Україну, ukrainian library, ukrainian books, books about Ukraine"
 skills: "Домашня бібліотека відкрита для нових знайомств та обміну книжками українських авторів, українською мовою або про Україну"
 meta_author: Марія
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   location: Місце зустрічі
-  social: Cоціальні мережі
+  social: Cоціяльні мережі
   copyright: sorokinaspace
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
