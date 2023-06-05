@@ -8,6 +8,7 @@ author_label: Автор
 img: novi-temni-viky-max-kidruk.jpg
 alt: image-alt
 project-date: 2022
+status: booked
 category: Фантастика, Сучасна проза
 description: "2141 рік.
 
