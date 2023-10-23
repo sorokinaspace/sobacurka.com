@@ -1,12 +1,11 @@
 ---
 layout: default
-modal-id: 33
-date: 2023-05-05
+modal-id: 11
+date: 2023-04-06
 title: Babusya's Kitchen (ENG)
 author: RPCV Alliance for Ukraine
 author_label: Автори
 img: babusyas-kitchen.jpg
-alt: image-alt
 project-date: 2022
 category: Кулінарія
 description: "Discover the Rich Traditions of Ukrainian Cuisine
