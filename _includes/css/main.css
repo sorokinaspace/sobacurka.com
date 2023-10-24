@@ -257,7 +257,7 @@ section.success {
 }
 
 /* Flexbox Portfolio Grid */
-@media (min-width: 640px) {
+@media (min-width: 100px) {
     .portfolio-flex-grid .portfolio-flex-row {
       display: flex;
       flex-flow: row wrap;
