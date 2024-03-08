@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 40
-date: 2024-05-08
+date: 2024-03-08
 title: Рівновага
 author: Володимир Винниченко
 author_label: Автор
