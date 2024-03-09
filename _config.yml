@@ -70,3 +70,9 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+host: 0.0.0.0
+
+exclude:
+  - vendor
+  
