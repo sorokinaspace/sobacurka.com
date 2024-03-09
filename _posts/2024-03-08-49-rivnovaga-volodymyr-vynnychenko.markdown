@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 40
+modal-id: 49
 date: 2024-03-08
 title: Рівновага
 author: Володимир Винниченко
